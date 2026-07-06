@@ -4,6 +4,24 @@ Terminal DORA metrics dashboard for GitHub teams.
 
 Pulls PR, deployment, and CI data from a GitHub org (or user) and renders DORA metrics plus team breakdowns in your terminal.
 
+## Screenshots
+
+### Overview — DORA metrics at a glance
+
+![Overview — DORA metrics](docs/overview.png)
+
+### Repos — per-repo breakdown
+
+![Repos tab](docs/repos.png)
+
+### Authors — contributor stats
+
+![Authors tab](docs/authors.png)
+
+### CI — pass rate and recent runs
+
+![CI tab](docs/ci.png)
+
 ## Metrics
 
 - **Deployment frequency** (merged PRs to main as proxy when deploy data is sparse)
